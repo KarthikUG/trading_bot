@@ -1,0 +1,14 @@
+2026-03-19 13:49:33,373 - INFO - Placing MARKET order
+2026-03-19 13:49:34,442 - INFO - {}
+2026-03-19 13:53:34,425 - INFO - Placing MARKET order
+2026-03-19 13:53:35,298 - INFO - {}
+2026-03-19 13:53:44,708 - INFO - Placing MARKET order
+2026-03-19 13:53:45,365 - INFO - {}
+2026-03-19 14:10:14,303 - INFO - Placing MARKET order
+2026-03-19 14:10:14,827 - ERROR - APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-03-19 14:11:03,286 - INFO - Placing MARKET order
+2026-03-19 14:11:03,894 - INFO - {'orderId': 12876234669, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ851dd50b6189e51231ed23', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.003', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773909663679}
+2026-03-19 14:11:49,614 - INFO - Placing LIMIT order
+2026-03-19 14:11:50,481 - ERROR - APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-03-19 14:12:24,097 - INFO - Placing LIMIT order
+2026-03-19 14:12:24,677 - INFO - {'orderId': 12876251643, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ637d61a1081d94a7ff3067', 'price': '20000.00', 'avgPrice': '0.00', 'origQty': '0.006', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773909744443}
